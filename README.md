@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalidas</h1>
-<h3 align="center">A Passionate Software Engineer from Tamil Nadu</h3>
+<h3 align="center">A Passionate Software Developer from Tamil Nadu</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

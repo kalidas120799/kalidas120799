@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">Software Engineer<br>Alphazene Solutions Pvt Ltd · Full-time<br>Oct 2020 - Oct 2020</p>
+<p align="left">Software Engineer<br>Alphazene Solutions Pvt Ltd · Full-time<br>Oct 2020 - Oct 2021</p>
 
 ###
 

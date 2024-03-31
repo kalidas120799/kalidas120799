@@ -1,6 +1,6 @@
 # **KALIDAS** SELVAM
 
-Hi, I'm a **SOFTWARE DEVELOPER** with over **3 years** of experience. Skilled in both **front-end** and **back-end** development, bringing a **full-stack** approach to **web application development**
+Hi, I'm a **SOFTWARE DEVELOPER** with **3.9 years** of experience. Skilled in both **front-end** and **back-end** development, bringing a **full-stack** approach to **web application development**
 
 <div align="right">
   <a href="https://www.linkedin.com/in/kalidas-selvam-3013a2190" target="_blank">
